@@ -1,0 +1,9 @@
+1 Git Status - To check files Local reporsitory 
+2 Git Init - To initialise the GIT repository 
+3 Git Add - To move file from Working directory to Staging Area
+4 Git Add . - To Move file multiple files in staging area
+5 Git Rm -- cached <file> - to remove file from staging area
+6 Git branch -m <name> - to chnage the name of the branch
+7 Git Commit -m "Message You want to Add"
+8 Git Config --Global user.name "VishalJoshi888"
+9 Git Config --Global user.email "VishalJoshi828@gmail.com"
