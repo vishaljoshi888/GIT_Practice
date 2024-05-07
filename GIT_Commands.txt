@@ -7,3 +7,5 @@
 7 Git Commit -m "Message You want to Add"
 8 Git Config --Global user.name "VishalJoshi888"
 9 Git Config --Global user.email "VishalJoshi828@gmail.com"
+10 Git remote add origin https://github.com/vishaljoshi888/GIT_Practice - to push into Remote Repository
+11 Git push - to Push the data/file
